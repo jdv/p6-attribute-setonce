@@ -1,0 +1,10 @@
+NAME
+    Attribute::SetOnce - set-once attributes
+
+INSTALLATION
+    To install this module type the following:
+
+    panda install Attribute::SetOnce
+
+SEE ALSO
+    See the individual module documentation for more information.

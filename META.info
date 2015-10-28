@@ -1,0 +1,12 @@
+{
+    "name" : "Attribute::SetOnce",
+    "version" : "0.01",
+    "description" : "set-once attributes",
+    "author" : "Justin DeVuyst",
+    "depends" : [ ],
+    "provides" : {
+        "Attribute::SetOnce" : "lib/Attribute/SetOnce.pm",
+        "Attribute::SetOnce::IsSet" : "lib/Attribute/SetOnce.pm"
+    },
+    "source-url" : "git://github.com/jdv/p6-attribute-setonce.git"
+}
